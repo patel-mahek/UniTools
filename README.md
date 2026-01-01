@@ -7,28 +7,28 @@
 
 ##  Features
 
-- ** Text Formatter**
+- **Text Formatter**
   - Format and validate JSON, YAML, XML, and Markdown.
 
-- ** Random Generator**
+- **Random Generator**
   - Generate random numbers, strings, IDs with custom options.
 
-- ** Code Formatter**
+- **Code Formatter**
   - Beautify and validate HTML, CSS, JavaScript, and Python code.
 
-- ** CSV & Excel Utilities**
+- **SV & Excel Utilities**
   - Convert CSV ↔ JSON ↔ Excel, with live preview and editing.
 
-- ** Password Generator**
+- **Password Generator**
   - Create secure passwords with strength and entropy check.
 
-- ** QR Code Generator**
+- **QR Code Generator**
   - Generate custom QR codes for URLs, contact info, and text.
 
 ###  Premium Tools
-- ** SQL Formatter**
-- ** Cron Builder**
-- ** Token Generator (JWT/API keys)**
+- **SQL Formatter**
+- **Cron Builder**
+- **Token Generator (JWT/API keys)**
 
 ---
 
@@ -42,7 +42,7 @@
 | Media Storage| [Cloudinary](https://cloudinary.com)    |
 
 ---
-## 🛠️ Local Development
+## Local Development
 
 To run the UniTools platform locally, follow these steps:
 
