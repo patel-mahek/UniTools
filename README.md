@@ -1,38 +1,38 @@
-# 🛠️ UniTools
+#  UniTools
 
 **UniTools** is a unified platform offering a suite of essential online tools for developers, students, and professionals. From code formatting to QR generation, UniTools consolidates multiple productivity utilities into one seamless interface.
 
 ▶️ **[Watch Demo](https://youtu.be/2dj5alDL5NQ)**
 ---
 
-## 🚀 Features
+##  Features
 
-- **🔤 Text Formatter**
+- ** Text Formatter**
   - Format and validate JSON, YAML, XML, and Markdown.
 
-- **🎲 Random Generator**
+- ** Random Generator**
   - Generate random numbers, strings, IDs with custom options.
 
-- **🎨 Code Formatter**
+- ** Code Formatter**
   - Beautify and validate HTML, CSS, JavaScript, and Python code.
 
-- **📊 CSV & Excel Utilities**
+- ** CSV & Excel Utilities**
   - Convert CSV ↔ JSON ↔ Excel, with live preview and editing.
 
-- **🔐 Password Generator**
+- ** Password Generator**
   - Create secure passwords with strength and entropy check.
 
-- **🔗 QR Code Generator**
+- ** QR Code Generator**
   - Generate custom QR codes for URLs, contact info, and text.
 
-### ⚡ Premium Tools
-- **🧠 SQL Formatter**
-- **🕒 Cron Builder**
-- **🔑 Token Generator (JWT/API keys)**
+###  Premium Tools
+- ** SQL Formatter**
+- ** Cron Builder**
+- ** Token Generator (JWT/API keys)**
 
 ---
 
-## 🧱 Tech Stack
+##  Tech Stack
 
 | Layer        | Technology        |
 |--------------|------------------|
@@ -51,14 +51,14 @@ To run the UniTools platform locally, follow these steps:
 git clone https://github.com/your-username/unitools.git
 cd unitools
 ```
-###2. Start the Frontend (Next.js)
+### 2. Start the Frontend (Next.js)
 ```bash
 cd app  # navigate to the frontend folder
 npm install
 npm run dev
 ```
 By default, the frontend will be available at: http://localhost:3000
-###3. Start the Backend API (FastAPI)
+### 3. Start the Backend API (FastAPI)
 Open a new terminal window:
 ```bash
 cd api  # Navigate to the backend folder
